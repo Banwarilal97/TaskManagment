@@ -22,3 +22,6 @@ MyTaskManagment
 
 6) update by id api
 ![image alt](https://github.com/Banwarilal97/TaskManagment/blob/5f473109089a8dc6b6773abbd3b615455ed90564/Screenshot%202025-12-03%20235656.png)
+
+7) delete by id
+![image alt](https://github.com/Banwarilal97/TaskManagment/blob/33143687f8056d2b1df7a420acdc69461e0c415a/Screenshot%202025-12-03%20235829.png)
