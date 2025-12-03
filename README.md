@@ -15,3 +15,6 @@ MyTaskManagment
 
 4) get by id api
 ![image alt](https://github.com/Banwarilal97/TaskManagment/blob/d7e27a16594159d78769149f06acaae7bc3bfbc9/Screenshot%202025-12-03%20234813.png)
+
+5) get all task api
+![image alt](https://github.com/Banwarilal97/TaskManagment/blob/62868b74911c112840fda91fba4b8d4add951085/Screenshot%202025-12-03%20235036.png)
