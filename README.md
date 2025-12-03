@@ -23,8 +23,10 @@ MyTaskManagment
 6) update by id api
 ![image alt](https://github.com/Banwarilal97/TaskManagment/blob/5f473109089a8dc6b6773abbd3b615455ed90564/Screenshot%202025-12-03%20235656.png)
 
-7) delete by id
+7) delete by id api
 ![image alt](https://github.com/Banwarilal97/TaskManagment/blob/33143687f8056d2b1df7a420acdc69461e0c415a/Screenshot%202025-12-03%20235829.png)
 
 8) summery api
+overdue task count
+number of task per status
 ![image alt](https://github.com/Banwarilal97/TaskManagment/blob/c8054bcde3643a1712ecc0d03df063897aa25075/Screenshot%202025-12-03%20235932.png)
