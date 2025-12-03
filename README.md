@@ -18,3 +18,7 @@ MyTaskManagment
 
 5) get all task api
 ![image alt](https://github.com/Banwarilal97/TaskManagment/blob/62868b74911c112840fda91fba4b8d4add951085/Screenshot%202025-12-03%20235036.png)
+
+
+6) update by id api
+![image alt](https://github.com/Banwarilal97/TaskManagment/blob/5f473109089a8dc6b6773abbd3b615455ed90564/Screenshot%202025-12-03%20235656.png)
