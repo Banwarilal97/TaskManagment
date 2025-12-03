@@ -25,3 +25,6 @@ MyTaskManagment
 
 7) delete by id
 ![image alt](https://github.com/Banwarilal97/TaskManagment/blob/33143687f8056d2b1df7a420acdc69461e0c415a/Screenshot%202025-12-03%20235829.png)
+
+8) summery api
+![image alt](https://github.com/Banwarilal97/TaskManagment/blob/c8054bcde3643a1712ecc0d03df063897aa25075/Screenshot%202025-12-03%20235932.png)
